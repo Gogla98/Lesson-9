@@ -31,7 +31,7 @@
     .nav-box {
         display: none;
     }
-    .fa-bars {
+    .navigation i {
         display: block;
         color: #696969;
         font-size: 32px;
