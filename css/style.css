@@ -20,6 +20,8 @@
 }
 .burger {
     display: none;
+    color: #FFFFFF;
+    font-size: 0px;
 }
 
 /* section1 */
