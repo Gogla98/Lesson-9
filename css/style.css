@@ -19,9 +19,8 @@
     color: #303134;
 }
 .burger {
+    visibility: hidden;
     display: none;
-    color: #FFFFFF;
-    font-size: 0px;
 }
 
 /* section1 */
