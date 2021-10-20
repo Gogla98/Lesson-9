@@ -1,3 +1,8 @@
+@media (max-width: 1920px) {
+    .burger {
+        display: none;
+    }
+}
 @media (max-width: 1170px) {
     .div-box {
         width: 241.47px;
