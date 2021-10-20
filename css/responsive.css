@@ -26,7 +26,7 @@
 @media (max-width: 890px) {
     
 }
-@media (max-width: 768px) {
+@media (max-width: 770px) {
     .navigation {
         display: flex;
         justify-content: space-between;
@@ -51,5 +51,19 @@
 @media (max-width: 538px) {
     .div-line {
         margin: 0 auto;
+    }
+    .text1 {
+        font-size: 40px;
+    }
+    .text2 {
+        font-size: 9px;
+    }
+}
+@media (max-width: 410px) {
+    .text1 {
+        font-size: 32px;
+    }
+    .text2 {
+        font-size: 6px;
     }
 }
